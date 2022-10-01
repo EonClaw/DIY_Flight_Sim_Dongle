@@ -1,10 +1,9 @@
 # DIY_Flight_Sim_Dongle_ProMicro_PPM
 
-To install drivers for Arduino ProMicro 
+Three wires needed - 3.3v, Grnd and PPM to D4 pin of ProMicro/Leonardo.
 
-Follow instructions from 
+Verify and Upload sketch as "Arduino LEONARDO" board (***NOT as Sparkfun Pro Micro***).
 
-https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all#installing-windows
+To install drivers for Arduino ProMicro follow instructions from "https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all#installing-windows".
 
-
-Verify and Upload sketch as "Arduino Leonardo" board (***NOT as Sparkfun Pro Micro***).
+Download a game demo to test from "https://fpv-freerider.itch.io/fpv-freerider".
