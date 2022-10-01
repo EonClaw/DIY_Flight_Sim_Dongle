@@ -8,4 +8,4 @@ To install drivers for Arduino ProMicro follow instructions from "https://learn.
 
 Download a game demo to test from "https://fpv-freerider.itch.io/fpv-freerider".
 
-https://github.com/EonClaw/DIY_Flight_Sim_Dongle/blob/main/310170999_506776550863801_1289078550836779407_n.jpg
+![alt text]([http://url/to/img.png](https://github.com/EonClaw/DIY_Flight_Sim_Dongle/blob/main/310170999_506776550863801_1289078550836779407_n.jpg)
