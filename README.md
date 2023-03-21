@@ -7,3 +7,5 @@ Verify and Upload sketch as "Arduino LEONARDO" board (***NOT as Sparkfun Pro Mic
 To install drivers for Arduino ProMicro follow instructions from "https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all#installing-windows".
 
 Download a game demo to test from "https://fpv-freerider.itch.io/fpv-freerider".
+
+![My Remote Image](https://github.com/EonClaw/DIY_Flight_Sim_Dongle/blob/main/properties.png?dl=0)
